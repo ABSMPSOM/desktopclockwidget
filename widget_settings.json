@@ -1,0 +1,21 @@
+{
+    "position_preset": "top_mid",
+    "manual_x": 100,
+    "manual_y": 100,
+    "custom_font_path": "",
+    "line_spacing": 9,
+    "letter_spacing": 2,
+    "auto_start": false,
+    "font_day": "Century Gothic",
+    "size_day": 45,
+    "style_day": "bold",
+    "color_day": "#1E293B",
+    "font_date": "Courier New",
+    "size_date": 20,
+    "style_date": "normal",
+    "color_date": "#64748B",
+    "font_time": "Courier New",
+    "size_time": 18,
+    "style_time": "normal",
+    "color_time": "#3B82F6"
+}
